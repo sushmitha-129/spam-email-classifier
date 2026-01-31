@@ -28,9 +28,3 @@ This is a supervised learning classification problem.
 ## 📊 Result
 The model achieves high accuracy on unseen test data and can correctly classify spam messages.
 
-## 🚀 Future Improvements
-- Build a web UI using Streamlit or Flask
-- Deploy the model as a web application
-
-## 👩‍💻 Author
-Sushmitha
